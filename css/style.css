@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* common style */
+
+
+@media (max-width:350px) {
+
+    .infinit,
+    .nike {
+        font-size: 30px !important;
+    }
+
+
+}
+
+
+/* common style */
+/* header s */
+header {
+    background: rgba(255, 249, 244, 1) !important;
+}
+
+.logo {
+    width: 290px !important;
+}
+
+.herop {
+    font-size: 16px !important;
+    color: rgba(62, 62, 62, 1);
+}
+
+.nav-link {
+    font-size: 16px !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: rgba(60, 60, 60, 1) !important;
+}
+
+.nike {
+    color: rgba(250, 128, 76, 1) !important;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.infinit {
+    color: rgba(54, 57, 88, 1) !important;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    font-size: 70px;
+
+}
+
+.group {
+    width: 407px;
+    height: 407px;
+}
+
+.card-title {
+    color: rgba(54, 57, 88, 1);
+}
+
+.price {
+    color: rgba(250, 128, 76, 1);
+    font-size: 40px !important;
+
+}
+
+.cardimg {
+    background: rgb(205, 203, 203) !important;
+}
+
+.buy {
+    padding: 10px 30px !important;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.cart {
+    width: 19px !important;
+    height: 17px !important;
+}
+
+.cetagory {
+    color: rgba(54, 57, 88, 1);
+}
+
+/* header ends */
