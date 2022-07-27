@@ -24,6 +24,10 @@ header {
     background: rgba(255, 249, 244, 1) !important;
 }
 
+.navbar {
+    background: rgba(255, 249, 244, 1) !important;
+}
+
 .logo {
     width: 290px !important;
 }
@@ -74,18 +78,36 @@ header {
     background: rgb(205, 203, 203) !important;
 }
 
+.bone {
+    background: ;
+}
+
 .buy {
     padding: 10px 30px !important;
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
 }
 
 .cart {
-    width: 19px !important;
-    height: 17px !important;
+    width: 19px;
+    height: 17px;
 }
 
 .cetagory {
     color: rgba(54, 57, 88, 1);
+}
+
+.xmid {
+    width: 599px;
+    height: 354px;
+}
+
+.foot-box p {
+    font-size: 16px !important;
+}
+
+.icon {
+    width: 71px;
+    height: 79px;
 }
 
 /* header ends */
